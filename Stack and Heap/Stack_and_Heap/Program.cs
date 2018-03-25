@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Stack_and_Heap
 {
@@ -11,8 +7,8 @@ namespace Stack_and_Heap
         static void Main(string[] args)
         {   
             //Создаем Объект на Кучу(Стек)
-            Mystruct inctanse1 = new Mystruct();
-            Mystruct inctanse2 = new Mystruct();
+            MyStruct inctanse1 = new MyStruct();
+            MyStruct inctanse2 = new MyStruct();
 
             inctanse1.field = 8;
             inctanse2.field = 9;
@@ -21,7 +17,7 @@ namespace Stack_and_Heap
             inctanse2.Method(25, 35);
         }
     }
-    struct Mystruct
+    struct MyStruct
     {
         //Поле(field)
         public int field;
