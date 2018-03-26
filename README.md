@@ -21,4 +21,4 @@
 и объекты класса , а при  создании объекта того же класса, во второй раз  в кучу создаются только экземпляры класса.
 Это сделано для того, чтобы  не занимать много места в памяти , а экземпляры связываються с объектом с помощью  хеш кодами.
 
-![](https://github.com/SurenKhachatryan/Stack-and-Heap/blob/master/Stack%20and%20Heap%20(1).PNG)
+![](https://github.com/SurenKhachatryan/Stack-and-Heap/blob/master/Stack%20and%20heap%20Class.PNG)
