@@ -23,3 +23,6 @@
 
 # Пример как располагаются классы на памят 
 ![](https://github.com/SurenKhachatryan/Stack-and-Heap/blob/master/Stack%20and%20heap%20Class.PNG)
+
+# Пример как располагаются структуы на памят 
+![](https://github.com/SurenKhachatryan/Stack-and-Heap/blob/master/Stack%20and%20Heap%20Struct.PNG)
