@@ -6,7 +6,7 @@ namespace Stack_and_Heap
     {
         static void Main(string[] args)
         {   
-            //Создаем Объект на Кучу(Стек)
+            //Создаем Объект в Стек(Stack)
             MyStruct inctanse1 = new MyStruct();
             MyStruct inctanse2 = new MyStruct();
 
